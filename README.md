@@ -1,7 +1,7 @@
 # 🐨 코알라 다마고치
 
 픽셀 아트 코알라를 키우는 브라우저 다마고치 게임입니다.
-
+[링크] (https://lanymo.github.io/koala-tamagotchi)
 ---
 
 ## 게임 방법
